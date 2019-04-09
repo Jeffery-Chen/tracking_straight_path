@@ -1,0 +1,23 @@
+singleline      2%
+Kp1 = 8          # Wheel speed factor for dev(0.5,10)
+Kp2 = 0.009          # Wheel speed factor for theta
+Ki2 = 0.0005             
+Kd2 = 0.005
+
+singleline     5%
+Kp1 = 8          # Wheel speed factor for dev
+Kp2 = 0.0075          # Wheel speed factor for theta
+Ki2 = 0.0005
+Kd2 = 0.005
+
+singleline     10%
+Kp1 = 8          # Wheel speed factor for dev
+Kp2 = 0.006          # Wheel speed factor for theta
+Ki2 = 0
+Kd2 = 0.0054
+
+singleline    20%
+Kp1 = 8          # Wheel speed factor for dev
+Kp2 = 0.006          # Wheel speed factor for theta
+Ki2 = 0
+Kd2 = 0.005
